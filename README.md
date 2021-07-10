@@ -18,7 +18,7 @@ Version 0.1.0: [download](https://github.com/Andrey-Anatolyevich/UsaVisaIntervie
 - You would configure a tab in Firefox to request interview dates
 - The tab will be set for auto-update
 - When the tab is updated, the extension with help of backend will send closest date to the chat between you and the Telegram bot: **USA Visa Date Notifier**
-- If you would love to reschedule your interview to the new date, open the "Reschedule" page of ais.usvisa-info.com and pick the date while it is available. **Good dates disappear in few minutes!**
+- If you would love to reschedule your interview to the new date, open the "Reschedule" page of [ais.usvisa-info.com](https://ais.usvisa-info.com) and pick the date while it is available. **Good dates disappear in few minutes!**
 
 # Setting it all UP:
 ## Part 1: Telegram
@@ -54,8 +54,8 @@ Version 0.1.0: [download](https://github.com/Andrey-Anatolyevich/UsaVisaIntervie
 - Click the 'USA Visa Interview Date notifier' extension icon and fill data:
 ![](https://raw.githubusercontent.com/Andrey-Anatolyevich/dateReporter-FirefoxExtension/main/pics/extension-fields.jpg)
   - Token from the telegram bot "USA Visa Date Notifier": enter here the token you received from the bot. If you lost it, send the bot `/token` to receive it again
-  - ais.usvisa-info.com dates JSON URL: Enter here the URL you copied & saved in the previous part
-  - ais.usvisa-info.com login page URL: this is the URL of the page, to which you are redirected when your session with ais.usvisa-info.com is expired. You can update the URL later to make sure the system can provide you with proper updates
+  - [ais.usvisa-info.com](https://ais.usvisa-info.com) dates JSON URL: Enter here the URL you copied & saved in the previous part
+  - [ais.usvisa-info.com](https://ais.usvisa-info.com) login page URL: this is the URL of the page, to which you are redirected when your session with [ais.usvisa-info.com](https://ais.usvisa-info.com) is expired. You can update the URL later to make sure the system can provide you with proper updates
 - In the 'USA Visa Interview Date notifier' extension click `Enable`
 
 ## Part 5: Make the dates tab auto-updatable
@@ -68,6 +68,6 @@ Version 0.1.0: [download](https://github.com/Andrey-Anatolyevich/UsaVisaIntervie
 Now in the chat with the bot in Telegram when you send `/state` message, in the reply you will see if "Last update received" chages after the "Dates" tab is updated in the browser
 
 ## Note:
-When the session with ais.usvisa-info.com expires, if "ais.usvisa-info.com login page URL" is configured properly, the bot will send a message about it AND the `USA Visa Interview Date notifier` extension will be disabled.
+When the session with [ais.usvisa-info.com](https://ais.usvisa-info.com) expires, if "ais.usvisa-info.com login page URL" is configured properly, the bot will send a message about it AND the `USA Visa Interview Date notifier` extension will be disabled.
 
-You would have to login with ais.usvisa-info.com and reconfigure the Dates Tab. (As of now, it happens 2-3 times a day)
+You would have to login with [ais.usvisa-info.com](https://ais.usvisa-info.com) and reconfigure the Dates Tab. (As of now, it happens 2-3 times a day)
