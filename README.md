@@ -22,7 +22,7 @@ Version 0.1.0: [download](https://github.com/Andrey-Anatolyevich/UsaVisaIntervie
 
 # Setting it all UP:
 ## Part 1: Telegram
-- In Telegram find the bot called: "USA Visa Date Notifier"
+- In Telegram find the bot called: "USA Visa Date Notifier":![USA Visa Date Notifier](https://raw.githubusercontent.com/Andrey-Anatolyevich/UsaVisaInterviewDateNotifier/main/pics/telegram-bot.jpg)
 - Start chat with the bot
 - Send `/token` to the bot to receive a browser token (this token will be needed later)
 
