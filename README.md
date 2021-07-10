@@ -70,4 +70,4 @@ Now in the chat with the bot in Telegram when you send `/state` message, in the 
 ## Note:
 When the session with [ais.usvisa-info.com](https://ais.usvisa-info.com) expires, if "ais.usvisa-info.com login page URL" is configured properly, the bot will send a message about it AND the `USA Visa Interview Date notifier` extension will be disabled.
 
-You would have to login with [ais.usvisa-info.com](https://ais.usvisa-info.com) and reconfigure the Dates Tab. (As of now, it happens 2-3 times a day)
+You would have to login with [ais.usvisa-info.com](https://ais.usvisa-info.com) and reconfigure the Dates Tab. (As of July 2021, it happens 2-3 times a day)
