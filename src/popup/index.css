@@ -1,0 +1,36 @@
+body {
+  padding: 0.3em;
+}
+
+.popup-content {
+  display        : flex;
+  flex-direction : column;
+  justify-content: space-between;
+  gap            : 0.4em;
+}
+
+.labeledTextGroup {
+  display       : flex;
+  flex-direction: column;
+}
+
+.labeledTextGroup > input[type='text'] {
+  min-width: 500px;
+}
+
+.labeledTextGroup > label {
+  color    : #535353;
+  font-size: 12px;
+}
+
+.hidden {
+  display: none;
+}
+
+.button {
+  margin    : 3% auto;
+  padding   : 4px;
+  text-align: center;
+  font-size : 1.5em;
+  cursor    : pointer;
+}
