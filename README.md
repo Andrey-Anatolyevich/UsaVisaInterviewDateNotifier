@@ -60,7 +60,7 @@ Version 0.1.0: [download](https://github.com/Andrey-Anatolyevich/UsaVisaIntervie
 
 ## Part 5: Make the dates tab auto-updatable
 - (1) Open the `Tab Reloader` extension settings window while in the Dates JSON tab (the tab from the previous part)
-- (2) Set reloading time. It is suggested to set `Variation` to at least 20% AND to not refresh dates more often than once in ~3-4 minutes
+- (2) Set reloading time. It is suggested to set `Variation` to at least 20% AND to not refresh dates more often than once in 4 minutes
 - (3) Enable `Tab Reloader` extension
 
 # YOU ARE ALL SET!
