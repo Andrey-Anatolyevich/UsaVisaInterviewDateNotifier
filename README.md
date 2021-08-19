@@ -1,9 +1,9 @@
 # USA Visa Interview Date notifier
 
-This is an Firefox extension which would capture USA Visa Interview Dates response from [ais.usvisa-info.com](https://ais.usvisa-info.com) and send the dates to your Telegram from the bot: **USA Visa Date Notifier**
+This is an Firefox extension which would capture USA Visa Interview Dates response from [ais.usvisa-info.com](https://ais.usvisa-info.com) and send the dates to your Telegram from the bot: [USA Visa Date Notifier](https://t.me/DateReporterBot)
 
 ## Disclamer:
-Due to the nature of the service and the application, it is not guaranteed to work properly past summer 2021. Over that, because it is relying on the current ways of [ais.usvisa-info.com](https://ais.usvisa-info.com), if the website developers change their patterns, it might and most likely will break the extension. Support for any changes in [ais.usvisa-info.com](https://ais.usvisa-info.com) can not be guaranteed.
+Due to the nature of the service and the application, it is not guaranteed to work properly past 2021. Over that, because it is relying on the current ways of [ais.usvisa-info.com](https://ais.usvisa-info.com), if the website developers change their patterns, it might and most likely will break the extension. Support for any changes in [ais.usvisa-info.com](https://ais.usvisa-info.com) can not be guaranteed.
 
 ## Download:
 Version 0.1.0: [download](https://github.com/Andrey-Anatolyevich/UsaVisaInterviewDateNotifier/raw/main/build/UsaVisaInterviewDateNotifier_0.1.0.zip)
