@@ -52,7 +52,7 @@ Version 0.1.0: [download](https://github.com/Andrey-Anatolyevich/UsaVisaIntervie
 - In the new tab navigate to the URL you've copied & saved in the previous part
 - If there are any dates available, you should see something similar to this: ![](https://raw.githubusercontent.com/Andrey-Anatolyevich/dateReporter-FirefoxExtension/main/pics/ais-dates.jpg)
 - Click the 'USA Visa Interview Date notifier' extension icon and fill data:
-![](https://raw.githubusercontent.com/Andrey-Anatolyevich/dateReporter-FirefoxExtension/main/pics/extension-fields.jpg)
+![](https://raw.githubusercontent.com/Andrey-Anatolyevich/UsaVisaInterviewDateNotifier/main/pics/extension-fields.jpg)
   - Token from the telegram bot "USA Visa Date Notifier": enter here the token you received from the bot. If you lost it, send the bot `/token` to receive it again
   - [ais.usvisa-info.com](https://ais.usvisa-info.com) dates JSON URL: Enter here the URL you copied & saved in the previous part
   - [ais.usvisa-info.com](https://ais.usvisa-info.com) login page URL: this is the URL of the page, to which you are redirected when your session with [ais.usvisa-info.com](https://ais.usvisa-info.com) is expired. You can update the URL later to make sure the system can provide you with proper updates
