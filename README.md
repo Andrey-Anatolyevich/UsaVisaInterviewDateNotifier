@@ -68,7 +68,7 @@ Support group name in Telegram: [UsaVisaDateNotifierHelpdesk](https://t.me/UsaVi
 
 # YOU ARE ALL SET!
 
-Now in the chat with the bot in Telegram when you send `/state` message, in the reply you will see if "Last update received" chages after the "Dates" tab is updated in the browser
+Now the bot will send you dates as they change in the browser. Also you can check current status by sending `/state` message to the bot, in the reply you will see if "Last update received" chages after the "Dates" tab is updated in the browser as well as the latest closest available interview date.
 
 ## Note:
 When the session with [ais.usvisa-info.com](https://ais.usvisa-info.com) expires, if "ais.usvisa-info.com login page URL" is configured properly, the bot will send a message about it AND the `USA Visa Interview Date notifier` extension will be disabled.
