@@ -8,6 +8,9 @@ Due to the nature of the service and the application, it is not guaranteed to wo
 ## Download:
 Version 0.1.0: [download](https://github.com/Andrey-Anatolyevich/UsaVisaInterviewDateNotifier/raw/main/build/UsaVisaInterviewDateNotifier_0.1.0.zip)
 
+## Telegram support group:
+Support group name in Telegram: [UsaVisaDateNotifierHelpdesk](https://t.me/UsaVisaDateNotifierHelpdesk)
+
 # Prerequisites:
 - [Telegram](https://telegram.org) (any version would work, mobile or desktop)
 - [Firefox](https://www.mozilla.org/en-US/firefox/) browser on your computer
